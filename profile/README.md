@@ -78,8 +78,23 @@ Then read **[`dev-setup.md`](https://github.com/Elevorateam/elevora-teamplatform
 | **[app-template](https://github.com/elevora-team/app-template)** | Apps · an icon installed from a store | `AP0-AP14` |
 | **[monorepo-template](https://github.com/elevora-team/monorepo-template)** | The container · several products for one client | `MR0-MR15` |
 
-`agent-template` and `automation-template` are **not built yet.** When a spec lands on
-one of them, say so rather than bending a neighbouring template into shape.
+### Coming, and the shape each one takes
+
+| | | |
+|---|---|---|
+| **`agent-template`** | next | **A strong base with branches**, not one flat thing. The loop, the tools, the guardrails, the knowledge, the monitoring — then **voice**, **chat** and **task** on top. Three separate templates would mean three copies of the guardrails, and the guardrails are the part nobody may get wrong |
+| **`automation-template`** | after | **Deliberately small.** An automation is almost never standalone, so it is mostly a characterization: is this around an agent we already built, or between third-party tools? **Both always attach somewhere** |
+| **`saas-template`** | | `system` + `app`, **plus a layer neither half has**: many tenants, subscriptions, plans, entitlements, self-serve signup, metering. A SaaS is not a system with more users |
+| **`mvp-template`** | | Real, **and temporary by design.** Fewer gates and a written debt list — with five never cut: auth, security, deploy, the legal minimum, QA |
+
+> **And a capability that does not exist yet, named so it is not invented twice:**
+> **promotion.** An MVP that found its market has to become production-grade — the cut
+> gates get run and the debt list becomes the work-list. `bridge` joins surfaces,
+> `adopt` takes in foreign code, and **neither promotes a build to a stricter
+> template.** Until it exists, a person does it.
+
+**When a spec lands on a template that is not built, say so** rather than bending a
+neighbouring one into shape.
 
 ---
 
