@@ -86,6 +86,22 @@ Two of them — `adopt` and `guide` — come from the plugin and work **in every
 
 ---
 
+## Works in any agent
+
+**Almost none of this is Claude-specific, and the part that is, is only a shortcut.**
+
+| Portable · runs anywhere | Claude Code only |
+|---|---|
+| `scripts/check.mjs` · plain Node, zero dependencies, **answers with an exit code** | The `/elevora:` shortcut |
+| `AGENTS.md` · itself the cross-agent standard | The plugin that distributes two commands |
+| `PLAYBOOK` · `CHECKLIST` · `GATE-0` · `BRIDGE` · `SECURITY` · `build-profile.ts` | |
+
+The eight commands are **markdown files** at `.claude/commands/elevora/`. Another agent reads them the way it reads `AGENTS.md` — as instructions. Codex, Cursor, Antigravity: hand it the path, it does the identical work.
+
+**And the rule that survives every agent:** a gate closes when `node scripts/check.mjs --gate <id>` exits 0 — never when an agent reports that it finished.
+
+---
+
 <div align="center">
 
 **Private repositories.** If a clone fails with a permission error, that is org access missing — not a broken command.
