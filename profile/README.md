@@ -16,25 +16,53 @@ improved through ongoing Care.
 
 ---
 
-## What we build
+## What we sell · seven products
 
-**Five product lines and a founder track.** A client can start with one and grow into a
-whole operating system — that is the shape of the business, not an upsell.
+**Two tracks, and they do not sit on the same axis.** Five products serve a business
+improving how it works. Two serve a founder building a venture. **A product is a product**
+— how we build it is a separate question, further down.
 
-| | Product | What it is |
-|---|---|---|
-| **1** | **AI Agents** · סוכני AI | Autonomous agents, single-purpose or multi-agent, working 24/7 inside existing workflows. **The autonomous end of the connected world** |
-| **2** | **Smart Automations** · אוטומציות חכמות | Workflow automation, cross-tool sync, scheduled jobs, with an intelligence layer. **The simple, reliable end** — cheaper, faster, deterministic |
-| **3** | **Software Systems** · מערכות תוכנה | Custom backends, CRMs, dashboards, internal tools, customer portals — with AI at the core. **The data is the product** |
-| **4** | **Apps** · אפליקציות | An end user already in the client's world — their customer, their employee, their supplier — doing things. **The experience is the product** |
-| **5** | **Sites** · אתרים | Marketing presence, landing pages, content. **The UI, the message and the conversion are the product** |
+### The matrix · five products for the customer-experience world
 
-**And beside the matrix, the founder track:** **MVP** (a mode, not a template — the same
-build with fewer gates and a written debt list) and **SaaS** (a composition — a system
-and an app on one backend, one brand, one container).
+| | Product | What it is | Typical |
+|---|---|---|---|
+| **1** | **AI Agents**<br><sub>סוכני AI</sub> | An autonomous agent · takes input, does the work, returns output. Works 24/7 inside existing workflows. Single or multi-agent | ₪3K-30K per agent |
+| **2** | **Smart Automations**<br><sub>אוטומציות חכמות</sub> | Workflow automation, cross-tool sync, scheduled jobs, with an intelligence layer. **Connects and sharpens without building a whole system** | ₪3K-25K |
+| **3** | **Software Systems**<br><sub>מערכות תוכנה</sub> | A complete custom system · backend, database, UI, with AI at the core. **The data is the product** | ₪25K-100K |
+| **4** | **Apps**<br><sub>אפליקציות</sub> | An end user **already in the client's world** — their customer, employee, supplier — doing things. **The experience is the product** | ₪20K-60K |
+| **5** | **Sites**<br><sub>אתרים</sub> | Marketing presence, landing pages, content. **The UI, the message and the conversion are the product** | ₪3K-25K |
 
-**Every build ships with a Studio workspace**, full documentation, and the option of
-ongoing Care.
+**Two pairs worth understanding.** *Agent ↔ Automation* is one world at two levels of
+autonomy: an automation is cheap, fast and deterministic with an AI hook; an agent is
+autonomous, expensive, and carries knowledge of its own. *Apps ↔ SaaS* is not a pair on
+one axis at all — it is **the boundary between the two tracks.**
+
+### The founder track · two products
+
+Its audience is founders and people starting ventures, **not a business improving its own
+operations.** Full transparency with clients: we invite founders into a partnership, we
+do not present SaaS case studies we do not have.
+
+| | Product | What it is | Typical |
+|---|---|---|---|
+| **6** | **MVP**<br><sub>השלב הראשון של מיזם</sub> | A technology partnership for a venture's first stage: from an idea to a **first product that actually works**, that real users can enter. **Not a Figma prototype, not a demo, not a spec** | ₪40K-120K · 2-3 months |
+| **7** | **SaaS / AGaaS**<br><sub>מוצר תוכנה כעסק</sub> | Software sold as a service · **the software is the product** and the revenue comes from its use. End to end: the core, users, permissions, multi-tenant, subscriptions, billing, onboarding, admin, analytics, security | a business, not a project |
+
+**AGaaS is the differentiator, and it is the direction the software world is going.**
+Traditional SaaS gives a user tools to do the work. **AGaaS is a product where agents do
+part of the work themselves, inside it** — noticing what needs attention, understanding
+context, acting, and following through. A CRM gives you tools to handle leads; an AGaaS
+product includes an agent that spots which lead needs attention, proposes the move, does
+part of it, and keeps watching.
+
+**MVP and SaaS are not a hierarchy.** A SaaS founder usually starts at MVP; an MVP can
+equally lead to an app, a marketplace, a consumer product or an internal system. And a
+SaaS client can arrive with a product that already exists.
+
+### And every build carries the same envelope
+
+A Studio workspace · full documentation and a runbook · walkthrough videos · a handover
+pack · a support window at delivery · and a recommendation into ongoing Care.
 
 ---
 
